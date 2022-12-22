@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@800&family=Oswald&display=swap');
+
+
+
+/* .cont{
+    width: 85%;
+    height: 2000px;
+    background-color: red;
+    margin-top: 100px;
+    display: flex;
+
+} */
+
+
+.cont{
+    background-color: #f6f7fb;
+    padding-top: 50px;
+    min-height: 100vh;
+    max-width: 100vw;
+    
+}
+
+.container{
+    width: 85%;
+    height: 220px;
+    background-color: white;
+    display: flex;
+
+}
+
+.container-2{
+    width: 85%;
+    /* height: 500px; */
+    /* margin-top: 20px; */
+    display: flex;
+    margin: 20px auto;
+    justify-content: space-between;
+    /* align-items: center; */
+
+}
+
+.inner{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    /* margin-top: 100px; */
+    display: flex;
+    margin-right: 50px;
+    padding: 10px;
+    
+
+}
+
+.inner-2{
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    /* margin-top: 100px; */
+    /* margin-left: 20px; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Oswald', sans-serif;
+}
+
+.butn{
+    margin-top: 30px;
+    
+}
+
+.colo{
+    background-color: #f46a6a;
+    color: white;
+}
+
+.inside{
+    display: flex;
+    justify-content: space-between;
+}
+.para2{
+    font-weight: 600;
+}
